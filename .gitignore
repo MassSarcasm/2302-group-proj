@@ -1,0 +1,6 @@
+# Large data files (each teammate downloads these themselves)
+zillowzipcode.csv
+SmartLocationDatabase.gdb/
+
+# Mac system files
+.DS_Store
