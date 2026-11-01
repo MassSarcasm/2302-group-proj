@@ -2,5 +2,19 @@
 zillowzipcode.csv
 SmartLocationDatabase.gdb/
 
+
+# Ignore all datasets
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+figures/
+.vscode/
+# Environment files
+.env
+.venv/
+
 # Mac system files
 .DS_Store
